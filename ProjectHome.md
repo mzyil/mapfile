@@ -1,0 +1,1 @@
+Parses .MAP files produced by Visual Studio and produces a nicely formated report organized and sorted by the size of all functions, data, and source files.  Handles name decoration as well.
